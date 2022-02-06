@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @longyin720
-- 👀 I’m interested in predicting stock market price, written text recognition, machine learning, etc
-- 🌱 I’m currently learning machine learning and R
-- 💞️ I’m looking to collaborate on beginner projects as long as I have time and people are friendly
-- 📫 How to reach me by email: lilongyin720@gmail.com
-
-<!---
-longyin720/longyin720 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Li Long Yin - Data Analyst Portfolio
+## About
+Hi, I'm @longyin720. I graduated with a BSc Chemistry degree at the University of Nottingham. Due to enormous interest towards data analytics , I self-taught core data analytics skills such as SQL, Python and Tableau while working. I'm especially fascinated to apply my knowledge and skills on marketing and Fintech field and investment field as examining customer behaviour and stock performance brings lots of joy and satisfaction to me. This repository is to highlight my projects which showcases my data analytical skills.
